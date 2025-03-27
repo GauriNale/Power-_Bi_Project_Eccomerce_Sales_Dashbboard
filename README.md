@@ -4,7 +4,7 @@
     solution that enables the owner of Madhav Storen to gain valuable insights into the online sales Performance 
     
 # Preview -
-
+<a href = "https://github.com/GauriNale/Power-_Bi_Project_Eccomerce_Sales_Dashbboard/blob/main/Dashboard%20image.png">Dashboard image</a>
 
 # Objective -
    The Madhav Store in tracking and analyzing their online saales across India . By leveraaging Power Bi , we aim to 
