@@ -10,6 +10,8 @@
    The Madhav Store in tracking and analyzing their online saales across India . By leveraaging Power Bi , we aim to 
    provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends
 
+ <a href =  "https://github.com/GauriNale/Power-_Bi_Project_Eccomerce_Sales_Dashbboard/blob/main/Mahadev%20sales%20dashboard.pbix">Dashboard create"</a>
+
 # Insights -
   - Most of the customers spent the maximum amounts of money onn purchasong products like clothing (63%),
     Electronics (21%), and Furniture(17%) (Printers, Bookcase, Saree, etc)
