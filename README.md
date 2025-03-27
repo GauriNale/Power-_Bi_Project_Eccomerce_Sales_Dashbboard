@@ -1,7 +1,8 @@
 #   MADHAV  ECCMERECE SALES DASHBOARD
-    Welcome to the Madhav  Ecommerce Sales Dashboard project repository! This project aims to create an interactive 
-    dashboard to track and analyze online sales across India for Madhav store using Power Bi, we've developed a cpmprehensive 
-    solution that enables the owner of Madhav Storen to gain valuable insights into the online sales Performance 
+    Welcome to the Madhav  Ecommerce Sales Dashboard project repository! This project aims to
+    create an interactive dashboard to track and analyze online sales across India for Madhav store
+    using Power Bi, we've developed a copmprehensive  solution that enables the owner of Madhav Storen
+    to gain valuable insights into the online sales Performance.
     
 # Preview -
 <a href = "https://github.com/GauriNale/Power-_Bi_Project_Eccomerce_Sales_Dashbboard/blob/main/Dashboard%20image.png">Dashboard image</a>
